@@ -22,7 +22,7 @@ Content:
 
 # Preface
 
-If you build a lot of keyboards or repair them, you know the hassle of having to open the cases, screw/ unscrew and taking apart the whole thing everytime you need to reflow a solder point, an led or maybe even just reset the MCU. Also for any sweep build youll need to have alot of screws and a few standoffs just keep the halfs together. With the Msweep you dont need to unscrew anything to access the PCB or any screw or standoff to use this case. The Case supports magnetic tenting legs.
+If you build a lot of keyboards or repair them, you know the hassle of having to open the cases, screw/ unscrew and taking apart the whole thing everytime you need to reflow a solder point, an led or maybe even just reset the MCU. Also for any sweep build youll need to have alot of screws and a few standoffs just keep the halfs together. With the Msweep you dont need to unscrew anything to access the PCB or any screw or standoff to use this case. In other magnetic cases i used to embedd the magnets in the print. That brought some problems with it, that made the process really strenuous. So now the magnets get glued into the case. But because of the postion of the magnets, you only see them if you pull the halfs apart or look at the bottom of the case, because the Case supports magnetic tenting legs and has magnets on the bottom of the case.
 
 Feel free to join the Discord Server, if you have questions about the case or just want to have a chat: https://discord.gg/TRQFN7fyU5
 
@@ -39,6 +39,7 @@ To print this case youll need:
 * about 115 gramms of Filament
 * 24 Neodymium Magnets (10mm x 2mm x 2mm)
 *  (Optional) 4 Neodymium Magnets round (10mm x 1mm)
+*  Strong glue for the magnets
 
 # How to print
  
@@ -66,13 +67,10 @@ Here is where the Msweep differs from the Mcorne cases. The Magnets are not embe
  * Stronger magnetic force holding the halfs together
  * No more play between the halfs because of the plastic that seperates the magnets.
 
+
 ### Top
 The print is pretty straight forward. Only little thing that needs to be done is adding a bit of support for the front edge because there is a overhang with a curve, and you cant print curves in the air. So it needs support on this spot. If you want to make the top finish extra nice you can iron it or just reduce the flow for the toplayer to about 91%.
 ![MagneticCorne5](https://github.com/Runningtarrens/Msweep/blob/main/pics/top%20slicer.JPG)
-
-
-
-
 
 
 
@@ -81,6 +79,11 @@ The print is pretty straight forward. Only little thing that needs to be done is
 Only thing to thing about here is the reduced flow or the ironing for the toplayer. because its the mate area for the top part. So setting the toplayer extrusion to 91% or just iron the last layer goes along way.
 
 ![Msweep_6](https://github.com/Runningtarrens/Msweep/blob/main/pics/bot%20slicer.JPG)
+
+
+### Gluing of the magnets
+
+
 
 #### Overview of the Part.
 

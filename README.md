@@ -67,36 +67,38 @@ Here is where the Msweep differs from the Mcorne cases. The Magnets are not embe
  * No more play between the halfs because of the plastic that seperates the magnets.
 
 ### Top
-The print is paused on the top half after the 42 layer or 4.2mm hight.
-![MagneticCorne5]()
+The print is pretty straight forward. Only little thing that needs to be done is adding a bit of support for the front edge because there is a overhang with a curve, and you cant print curves in the air. So it needs support on this spot. If you want to make the top finish extra nice you can iron it or just reduce the flow for the toplayer to about 91%.
+![MagneticCorne5](https://github.com/Runningtarrens/Msweep/blob/main/pics/top%20slicer.JPG)
 
 
-#### Position of the Pockets for the Magnets
-![MagneticCorne6]()
+
+
 
 
 
 ### Bottom
 
-The Bottom part is a bit more complex. It has, if you choose magnetig tenting and a transparent basis, 3 pauses. 2 to get the magnets in and 1 to just change the filament. If you dont want magnetic tenting and dont want another colour for the top part, youll only need one pause for the magnets.
+Only thing to thing about here is the reduced flow or the ironing for the toplayer. because its the mate area for the top part. So setting the toplayer extrusion to 91% or just iron the last layer goes along way.
+
+![Msweep_6](https://github.com/Runningtarrens/Msweep/blob/main/pics/bot%20slicer.JPG)
 
 #### Overview of the Part.
 
-![MagneticCorne7]()
+![Msweep_7]()
 
 #### First pause for the round magnets needed for the tenting
 
-![MagneticCorne8]()
+![Msweep_8]()
 
 
 #### Second pause to change the filament (different colour)
 
-![MagneticCorne9]()
+![Msweep_9]()
 
 
 #### Third pause for the magnets to close the case
 
-![MagneticCorne10]()
+![Msweep_10]()
 
 
 ### Tenting Legs

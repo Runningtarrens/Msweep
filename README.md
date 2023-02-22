@@ -29,26 +29,26 @@ Feel free to join the Discord Server, if you have questions about the case or ju
 
 # The Case
 
-![MagneticCorne2]()
-![MagneticCorne3]()
-![MagneticCorne4]()
+![Msweep_2](https://github.com/Runningtarrens/Msweep/blob/main/pics/PXL_20230222_173008931.jpg)
+![Msweep_3](https://github.com/Runningtarrens/Msweep/blob/main/pics/PXL_20230222_173025124.jpg)
+![Msweep_4](https://github.com/Runningtarrens/Msweep/blob/main/pics/PXL_20230222_173233067.jpg)
 
 # Bill of Materials
 
 To print this case youll need:
-* about 120 gramms of Filament
-* 16 Neodymium Magnets (14mm x 4mm x 2,5mm)
+* about 115 gramms of Filament
+* 24 Neodymium Magnets (10mm x 2mm x 2mm)
 *  (Optional) 4 Neodymium Magnets round (10mm x 1mm)
 
 # How to print
  
- I always print in PLA, but you can use any filament for the case. ABS/ASA and Filament that require an enclosure are difficult to work with, because if you want to put the magnets in, you have to open the enclosure and might be having problems with warping or cracked prints because of that.
+ I always print in PLA, but you can use any filament for the case. ABS/ASA and Filament that require an enclosure are difficult to work with. The printer and your settings for ASA and ABS must be on point so that the magnet pockets will be in the correct size. I recommend PLA because it has the best surface finish and is super easy to work with, any printer can print it.
 
 ## Slicing
 
 ### Settings for the Print:
 
-* 0.10 layer hight
+* 0.20 layer hight
 * 3 Parimeters
 * 3 Top and Bottom layers
 * 15% Infill
@@ -57,7 +57,14 @@ To print this case youll need:
 
 ### Getting the magnets in
 
-To get the magnets in, the M600 command is used. The printer makes a pause. While the print is pause, the magnets can be put into the pockets. Its important that you check and double check the polarity of the magnets, so that the halfs stick to each other and dont repel each other. The holes are tight but have a bit of tolerance, it can be a bit of work getting the magnets in, depending on how accurate your printer is.
+Here is where the Msweep differs from the Mcorne cases. The Magnets are not embedded in the print anymore. That has a few upsides.
+* The print doesnt need to be stopped mid print
+  That allows more printers to run the Gcode, because some models dont have the M600 command to pause the print automatically.
+  There is no problem with the fitting of the magnets, the pockets are bigger and wider, which helps with tolerances.
+  The pausing of the print brings discoluration of the filament, because for a while the filament gets cooked in the Hotend.
+  You dont need to stick around the printer for the hole time to put the magnets in when the printer halts.
+ * Stronger magnetic force holding the halfs together
+ * No more play between the halfs because of the plastic that seperates the magnets.
 
 ### Top
 The print is paused on the top half after the 42 layer or 4.2mm hight.

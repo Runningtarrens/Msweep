@@ -61,14 +61,9 @@ To print this case youll need:
 * 60°C Bed Temp
 
 
-### Tenting Legs
 
-![MagneticTentingLegs1](https://github.com/Runningtarrens/Msweep/blob/main/pics/20mm%20tenting%20legs.JPG)
 
-Print 4 of them upright. But you need a brim to have enough surface that sticks to the build plate or it will get loose while printing.
-They are 20mm long and give a decent tenting, but not to steep. If you prefer steeper or lower tenting just increase or decrease the hight with your slicer.
 
-![MagneticTentingLegs2](https://github.com/Runningtarrens/Msweep/blob/main/pics/PXL_20230222_173233067.jpg)
 
 
 
@@ -85,6 +80,16 @@ The print is pretty straight forward. Only little thing that needs to be done is
 Only thing to thing about here is the reduced flow or the ironing for the toplayer. because its the mate area for the top part. So setting the toplayer extrusion to 91% or just iron the last layer goes along way.
 
 ![Msweep_6](https://github.com/Runningtarrens/Msweep/blob/main/pics/bot%20slicer.JPG)
+
+
+### Tenting Legs
+
+![MagneticTentingLegs1](https://github.com/Runningtarrens/Msweep/blob/main/pics/20mm%20tenting%20legs.JPG)
+
+Print 4 of them upright. But you need a brim to have enough surface that sticks to the build plate or it will get loose while printing.
+They are 20mm long and give a decent tenting, but not to steep. If you prefer steeper or lower tenting just increase or decrease the hight with your slicer.
+
+![MagneticTentingLegs2](https://github.com/Runningtarrens/Msweep/blob/main/pics/PXL_20230222_173233067.jpg)
 
 # Magnets
 

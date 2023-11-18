@@ -13,6 +13,7 @@ Content:
 * Preface
 * The case
 * Bill of Materials
+* Keyboard sourcing
 * How to print
 * Magnets
 * Files
@@ -44,6 +45,15 @@ To print this case youll need:
 *  (Optional for tenting) 4 Neodymium Magnets in shape of a ring (10mm x 3,5mm) with a hole for a screw
 *  (Optional for Travel Case) 12 Neodymium Magnets (10mm x 2mm x 2mm)
 *  Strong glue for the magnets
+
+
+
+# Keyboard sourcing
+
+For this Sweep build a used the Aurora Sweep kit from [Splitkb.com](https://splitkb.com). That kit offered all the bells and whistles you could ask for. Here is a link to the [Aurora Sweep Kit](https://splitkb.com/collections/keyboard-kits/products/aurora-sweep). You get everything you need out of one Hand and dont need to order in multiple stores.
+I made a mx build with Underglow and Backlight LEDs, i also added OLEDs. All those options to add those things are right there, to add them to your kit. 
+
+
 
 # How to print
  

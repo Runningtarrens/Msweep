@@ -40,8 +40,9 @@ Feel free to join the Discord Server, if you have questions about the case or ju
 To print this case youll need:
 * about 115 gramms of Filament
 * 24 Neodymium Magnets (10mm x 2mm x 2mm)
-*  (Optional) 4 Neodymium Magnets round (10mm x 1mm)
-*  (Optional) 4 Neodymium Magnets in shape of a ring (10mm x 3,5mm) with a hole for a screw
+*  (Optional for tenting) 4 Neodymium Magnets round (10mm x 1mm)
+*  (Optional for tenting) 4 Neodymium Magnets in shape of a ring (10mm x 3,5mm) with a hole for a screw
+*  (Optional for Travel Case) 12 Neodymium Magnets (10mm x 2mm x 2mm)
 *  Strong glue for the magnets
 
 # How to print

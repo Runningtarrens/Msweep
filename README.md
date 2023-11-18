@@ -167,6 +167,12 @@ The .stl are to slice yourself.
 * Msweep Travel Case - **Added**
 * Msweep alu version - **big maybe**
 
+# The Travel Case
+
+![Msweep_trav1](https://github.com/Runningtarrens/Msweep/blob/main/pics/PXL_20231118_144108823.jpg)
+![Msweep_trav2](https://github.com/Runningtarrens/Msweep/blob/main/pics/PXL_20231118_144127534.jpg)
+![Msweep_trav3](https://github.com/Runningtarrens/Msweep/blob/main/pics/PXL_20231118_144148399.jpg)
+![Msweep_trav4](https://github.com/Runningtarrens/Msweep/blob/main/pics/PXL_20231118_144203878.jpg)
 
 
 

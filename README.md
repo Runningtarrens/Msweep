@@ -85,6 +85,23 @@ Only thing to thing about here is the reduced flow or the ironing for the toplay
 
 # Magnets
 
+### Getting the Magnets
+
+This is often the hardest part, because the sizes i use are not available everywhere. There is very good availability in Germany and good availability in the Eu. Outside of the Eu its problematic to get them. I dont know why this is. If you find local or global sellers outside the EU please let me know.
+
+* [Case Magnets](https://e-shop.magsy.eu/neodym-quadermagnet-10x2x2-n/#/41-stuckzahl-44_st)
+  
+![Msweep_mag1](https://github.com/Runningtarrens/Msweep/blob/main/pics/neodym-quadermagnet-10x2x2-n.jpg)
+  
+* [Case Magnets for tenting](https://e-shop.magsy.eu/neodym-zylindermagnet-dm-10x1-n/#/1-stuckzahl-1_st)
+  
+![Msweep_mag2](https://github.com/Runningtarrens/Msweep/blob/main/pics/neodym-zylindermagnet-dm-10x1-n.jpg)
+  
+* [Magnets for tenting legs](https://www.ebay.de/itm/394778035359?hash=item5bea9ac49f:g:gdoAAOSwxdZiMPKn&amdata=enc%3AAQAIAAABEGl0cZtJ%2FnSnelSX8GhK%2B6u5WZf3jZwcibG9uOpxr3EIvoZGtL09w7hQhDOPB6049WoX%2BVw7eUae1XrPtKp0zF1xRh5Qfv23WASU5WlMtRBzoaqRLlimUfdg97TBPNbVf16wqUS2GaOgdoJk1kwSgRBDtvXStH9fEukA9f%2B0wYHPhpuqBrTJ3EhQ8oGKOro47ZI1evz1QF7Xk4jGYMCgTnB2xvbnhMMoMNNVra8v1sSqAUlI836O3r0xIKwwT8X8NK7sTcY9EO5tZurIuYZU3tX%2Fd5nB1g2dj8HxUMGuEsFiYnBCws%2FwnotmhjHNWASZIKpsoMM1i%2BBBRzDvnSx1T3UcjjAQK9YlgtROjFfi2PhR%7Ctkp%3ABk9SR7SV2ar8Yg)
+  
+![Msweep_mag3](https://github.com/Runningtarrens/Msweep/blob/main/pics/s-l1600.jpg)
+
+
 ### Getting the Magnets in
 
 Here is where the Msweep differs from the Mcorne cases. The Magnets are not embedded in the print anymore. That has a few upsides.
@@ -127,9 +144,6 @@ That helps to put not to much stress on the Glue, in case its not 100% dry yet. 
 
 
 
-
-
-
 # Files
 
 ## latest files
@@ -139,35 +153,17 @@ That helps to put not to much stress on the Glue, in case its not 100% dry yet. 
 * corne split_top_right_reinforced_v4.stl
 * magnet_tenting_30mm.stl
 
-
-# Magnets
-
-* [Case Magnets](https://e-shop.magsy.eu/neodym-quadermagnet-10x2x2-n/#/41-stuckzahl-44_st)
   
-![Msweep_mag1](https://github.com/Runningtarrens/Msweep/blob/main/pics/neodym-quadermagnet-10x2x2-n.jpg)
-  
-* [Case Magnets for tenting](https://e-shop.magsy.eu/neodym-zylindermagnet-dm-10x1-n/#/1-stuckzahl-1_st)
-  
-![Msweep_mag2]((https://github.com/Runningtarrens/Msweep/blob/main/pics/neodym-zylindermagnet-dm-10x1-n.jpg)
-  
-* [Magnets for tenting legs](https://www.ebay.de/itm/394778035359?hash=item5bea9ac49f:g:gdoAAOSwxdZiMPKn&amdata=enc%3AAQAIAAABEGl0cZtJ%2FnSnelSX8GhK%2B6u5WZf3jZwcibG9uOpxr3EIvoZGtL09w7hQhDOPB6049WoX%2BVw7eUae1XrPtKp0zF1xRh5Qfv23WASU5WlMtRBzoaqRLlimUfdg97TBPNbVf16wqUS2GaOgdoJk1kwSgRBDtvXStH9fEukA9f%2B0wYHPhpuqBrTJ3EhQ8oGKOro47ZI1evz1QF7Xk4jGYMCgTnB2xvbnhMMoMNNVra8v1sSqAUlI836O3r0xIKwwT8X8NK7sTcY9EO5tZurIuYZU3tX%2Fd5nB1g2dj8HxUMGuEsFiYnBCws%2FwnotmhjHNWASZIKpsoMM1i%2BBBRzDvnSx1T3UcjjAQK9YlgtROjFfi2PhR%7Ctkp%3ABk9SR7SV2ar8Yg)
-  
-![Msweep_mag3](https://github.com/Runningtarrens/Msweep/blob/main/pics/s-l1600.jpg)
-  
+The .stl are to slice yourself.
 
 
 
-Version v4 is the latest for the case. I made some corrections so the inner keys ( T and Z dont scratch on the case).
-I only uploaded the right side as .stl but you can just mirror it in your slicer software to get the left version of it. 
-
-
-The .stl are to slice yourself. (There are also .3mf files which are already dialed in and provide the exact settings i use.).
-The .3mf are in rework for now.
+  
 
 
 # Tangented
 
-* Magnetic tenting legs - Added to the files directory
+* Magnetic tenting legs - Added
 * Msweep Travel Case - big maybe
 * Msweep alu version - big maybe
 

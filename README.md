@@ -148,10 +148,10 @@ That helps to put not to much stress on the Glue, in case its not 100% dry yet. 
 
 ## latest files
 
-* corne split_bot_rechts_v4.stl
-* corne split_top_right_reinforced_tentless_v4.stl
-* corne split_top_right_reinforced_v4.stl
-* magnet_tenting_30mm.stl
+* Bottom_v1_1.stl
+* top_v1_1.stl
+* Tenting_20mm.stl
+* travel_case_2.stl
 
   
 The .stl are to slice yourself.
@@ -163,9 +163,9 @@ The .stl are to slice yourself.
 
 # Tangented
 
-* Magnetic tenting legs - Added
-* Msweep Travel Case - big maybe
-* Msweep alu version - big maybe
+* Magnetic tenting legs - **Added**
+* Msweep Travel Case - **Added**
+* Msweep alu version - **big maybe**
 
 
 
@@ -173,43 +173,33 @@ The .stl are to slice yourself.
 
 # More Pics
 
-![MagneticCornegif1]()
-![MagneticCornegif2]()
-
+#### Front
+![Msweep_10](https://github.com/Runningtarrens/Msweep/blob/main/pics/PXL_20230213_130215621.jpg)
 
 #### Bottom
+![Msweep_11](https://github.com/Runningtarrens/Msweep/blob/main/pics/PXL_20230213_130222468.jpg)
 
-![MagneticCorne11]()
+#### Side
+![Msweep_12](https://github.com/Runningtarrens/Msweep/blob/main/pics/PXL_20230216_065300227.jpg)
 
+#### OLED close up
 
-#### Top underside
+![Msweep_13](https://github.com/Runningtarrens/Msweep/blob/main/pics/PXL_20230216_125026923.jpg)
 
-![MagneticCorne12]()
+#### LEDs in the Dark
+![Msweep_14](https://github.com/Runningtarrens/Msweep/blob/main/pics/PXL_20230217_055911585.jpg)
 
-
-#### Top upside
-
-![MagneticCorne13]()
-
+#### TRRS port
+![Msweep_15](https://github.com/Runningtarrens/Msweep/blob/main/pics/PXL_20230217_123755962.jpg)
 
 #### USB Port
+![Msweep_16](https://github.com/Runningtarrens/Msweep/blob/main/pics/PXL_20230222_173142206.jpg)
 
-![MagneticCorne14]()
-
-
-#### TRS Port
-
-![MagneticCorne15]()
+#### Tenting Magnets
+![Msweep_17](https://github.com/Runningtarrens/Msweep/blob/main/pics/PXL_20230222_173233067.jpg)
 
 
-#### Detail view 
 
-![MagneticCorne16]()
-
-
-#### Detail view close up
-
-![MagneticCorne17]()
 
 
 # Legend

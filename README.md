@@ -72,7 +72,7 @@ Here is where the Msweep differs from the Mcorne cases. The Magnets are not embe
 
 ### Top
 The print is pretty straight forward. Only little thing that needs to be done is adding a bit of support for the front edge because there is a overhang with a curve, and you cant print curves in the air. So it needs support on this spot. If you want to make the top finish extra nice you can iron it or just reduce the flow for the toplayer to about 91%.
-![MagneticCorne5](https://github.com/Runningtarrens/Msweep/blob/main/pics/top%20slicer.JPG)
+![Msweep_5](https://github.com/Runningtarrens/Msweep/blob/main/pics/top%20slicer.JPG)
 
 
 
@@ -85,25 +85,29 @@ Only thing to thing about here is the reduced flow or the ironing for the toplay
 
 ### Gluing of the magnets
 
+Gluing them in is not that hard. There are 2 things you need to be careful about. 
+ * The right orientation on the Magnets.
+ * Not using to much Glue, so youre not gluing the two halfs shut.
+
+The orientation part is pretty easy. the first set of Magnets can just be inserted how you like. It is better to orienten them all the same way but not needed.
+If you have glued in the first set and waited for the Glue to dry. You can just put the Magnets for the Top half on top of the glued magnets. The attract each other and stay on top of each other.
+Add a bit of Glue in the pockets of the Top half. Make sure its not to much. Place the Top half on the table, pockets for the Magnets facing up. Now you can take the Bottom half with the extra set of Magnets on and put it on the Top half. 
+Getting the Magnets into the pockets with the glue. Check that there is no excess glue thats coming out of the pockets. Press the halfs firmly together. Leave them for awhile to dry. When the Glue is dry you can seperate the halfs by lightly twisting. 
+That helps to put not to much stress on the Glue, in case its not 100% dry yet. You can repeat the same steps with the other side.
 
 
-#### Overview of the Part.
 
-![Msweep_7]()
-
-#### First pause for the round magnets needed for the tenting
-
-![Msweep_8]()
+![Msweep_7](https://github.com/Runningtarrens/Msweep/blob/main/pics/PXL_20230221_141026446.jpg)
 
 
-#### Second pause to change the filament (different colour)
-
-![Msweep_9]()
+![Msweep_8](https://github.com/Runningtarrens/Msweep/blob/main/pics/PXL_20230221_140742785.jpg)
 
 
-#### Third pause for the magnets to close the case
 
-![Msweep_10]()
+![Msweep_9](https://github.com/Runningtarrens/Msweep/blob/main/pics/PXL_20230221_140739719.jpg)
+
+
+
 
 
 ### Tenting Legs

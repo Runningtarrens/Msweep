@@ -14,8 +14,10 @@ Content:
 * The case
 * Bill of Materials
 * How to print
+* Magnets
 * Files
 * Tangented
+* Travel Case
 * More Pics
 * Legend
 * License

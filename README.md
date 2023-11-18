@@ -50,7 +50,7 @@ To print this case youll need:
 
 # Keyboard sourcing
 
-For this Sweep build a used the Aurora Sweep kit from [Splitkb.com](https://splitkb.com). That kit offered all the bells and whistles you could ask for. Here is a link to the [Aurora Sweep Kit](https://splitkb.com/collections/keyboard-kits/products/aurora-sweep). You get everything you need out of one Hand and dont need to order in multiple stores.
+For this Sweep build i used the Aurora Sweep kit from [Splitkb.com](https://splitkb.com). That kit offers all the bells and whistles you could ask for. Here is a link to the [Aurora Sweep Kit](https://splitkb.com/collections/keyboard-kits/products/aurora-sweep). You can get everything you need out of one Hand and dont need to order in multiple stores.
 I made a mx build with Underglow and Backlight LEDs, i also added OLEDs. All those options to add those things are right there, to add them to your kit. 
 
 

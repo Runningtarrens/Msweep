@@ -39,6 +39,7 @@ To print this case youll need:
 * about 115 gramms of Filament
 * 24 Neodymium Magnets (10mm x 2mm x 2mm)
 *  (Optional) 4 Neodymium Magnets round (10mm x 1mm)
+*  (Optional) 4 Neodymium Magnets in shape of a ring (10mm x 3,5mm) with a hole for a screw
 *  Strong glue for the magnets
 
 # How to print
@@ -56,18 +57,19 @@ To print this case youll need:
 * 205°C Filament temp
 * 60°C Bed Temp
 
-### Getting the magnets in
 
-Here is where the Msweep differs from the Mcorne cases. The Magnets are not embedded in the print anymore. That has a few upsides.
-* The print doesnt need to be stopped mid print
-  that allows more printers to run the Gcode, because some models dont have the M600 command to pause the print automatically.
-  There is no problem with the fitting of the magnets, the pockets are bigger and wider, which helps with tolerances.
-  The pausing of the print brings discoluration of the filament, because for a while the filament gets cooked in the Hotend.
-  You dont need to stick around the printer for the hole time to put the magnets in when the printer halts.
- * Stronger magnetic force holding the halfs together
- * No more play between the halfs because of the plastic that seperates the magnets.
- * modifying the magnets after wards. If they are embedded and have the wrong orientation, the print is lost.
-   If they are glued in and the pockets are open, you can remove them and glue them back in in the right orientation.
+### Tenting Legs
+
+![MagneticTentingLegs1]([https://github.com/Runningtarrens/Msweep/blob/main/pics/PXL_20230222_173233067.jpg](https://github.com/Runningtarrens/Msweep/blob/main/pics/20mm%20tenting%20legs.JPG
+))
+
+Print 4 of them upright. But you need a brim to have enough surface that sticks to the build plate or it will get loose while printing.
+They are 20mm long and give a decent tenting, but not to steep. If you prefer steeper or lower tenting just increase or decrease the hight with your slicer.
+
+![MagneticTentingLegs2](https://github.com/Runningtarrens/Msweep/blob/main/pics/PXL_20230222_173233067.jpg)
+
+
+
 
 
 ### Top
@@ -81,6 +83,21 @@ The print is pretty straight forward. Only little thing that needs to be done is
 Only thing to thing about here is the reduced flow or the ironing for the toplayer. because its the mate area for the top part. So setting the toplayer extrusion to 91% or just iron the last layer goes along way.
 
 ![Msweep_6](https://github.com/Runningtarrens/Msweep/blob/main/pics/bot%20slicer.JPG)
+
+# Magnets
+
+### Getting the Magnets in
+
+Here is where the Msweep differs from the Mcorne cases. The Magnets are not embedded in the print anymore. That has a few upsides.
+* The print doesnt need to be stopped mid print
+  that allows more printers to run the Gcode, because some models dont have the M600 command to pause the print automatically.
+  There is no problem with the fitting of the magnets, the pockets are bigger and wider, which helps with tolerances.
+  The pausing of the print brings discoluration of the filament, because for a while the filament gets cooked in the Hotend.
+  You dont need to stick around the printer for the hole time to put the magnets in when the printer halts.
+ * Stronger magnetic force holding the halfs together
+ * No more play between the halfs because of the plastic that seperates the magnets.
+ * modifying the magnets after wards. If they are embedded and have the wrong orientation, the print is lost.
+   If they are glued in and the pockets are open, you can remove them and glue them back in in the right orientation.
 
 
 ### Gluing of the magnets
@@ -110,11 +127,6 @@ That helps to put not to much stress on the Glue, in case its not 100% dry yet. 
 
 
 
-### Tenting Legs
-
-![MagneticTentingLegs]()
-
-Print 4 of them upright. But you need a prim to have enough surface that sticks to the build plate or it will get loose while printing.
 
 
 
@@ -127,6 +139,15 @@ Print 4 of them upright. But you need a prim to have enough surface that sticks 
 * corne split_top_right_reinforced_tentless_v4.stl
 * corne split_top_right_reinforced_v4.stl
 * magnet_tenting_30mm.stl
+
+
+# Magnets
+
+Case Magnets:
+Case Magnets for tenting:
+Magnets for tenting legs:
+
+https://www.ebay.de/itm/394778035359?hash=item5bea9ac49f:g:gdoAAOSwxdZiMPKn&amdata=enc%3AAQAIAAABEGl0cZtJ%2FnSnelSX8GhK%2B6u5WZf3jZwcibG9uOpxr3EIvoZGtL09w7hQhDOPB6049WoX%2BVw7eUae1XrPtKp0zF1xRh5Qfv23WASU5WlMtRBzoaqRLlimUfdg97TBPNbVf16wqUS2GaOgdoJk1kwSgRBDtvXStH9fEukA9f%2B0wYHPhpuqBrTJ3EhQ8oGKOro47ZI1evz1QF7Xk4jGYMCgTnB2xvbnhMMoMNNVra8v1sSqAUlI836O3r0xIKwwT8X8NK7sTcY9EO5tZurIuYZU3tX%2Fd5nB1g2dj8HxUMGuEsFiYnBCws%2FwnotmhjHNWASZIKpsoMM1i%2BBBRzDvnSx1T3UcjjAQK9YlgtROjFfi2PhR%7Ctkp%3ABk9SR7SV2ar8Yg
 
 Version v4 is the latest for the case. I made some corrections so the inner keys ( T and Z dont scratch on the case).
 I only uploaded the right side as .stl but you can just mirror it in your slicer software to get the left version of it. 

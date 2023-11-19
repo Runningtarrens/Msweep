@@ -137,8 +137,8 @@ Here is where the Msweep differs from the Mcorne cases. The Magnets are not embe
 * The print doesnt need to be stopped mid print
   that allows more printers to run the Gcode, because some models dont have the M600 command to pause the print automatically.
   There is no problem with the fitting of the magnets, the pockets are bigger and wider, which helps with tolerances.
-  The pausing of the print brings discoluration of the filament, because for a while the filament gets cooked in the Hotend.
-  You dont need to stick around the printer for the hole time to put the magnets in when the printer halts.
+  The pausing of the print brings discoloration of the filament, because for a while the filament gets cooked in the Hotend.
+  You dont need to stick around the printer for the whole time to put the magnets in when the printer halts.
  * Stronger magnetic force holding the halfs together
  * No more play between the halfs because of the plastic that seperates the magnets.
  * modifying the magnets after wards. If they are embedded and have the wrong orientation, the print is lost.

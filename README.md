@@ -92,6 +92,13 @@ The print is pretty straight forward. Only little thing that needs to be done is
 
 Only thing to thing about here is the reduced flow or the ironing for the toplayer. because its the mate area for the top part. So setting the toplayer extrusion to 91% or just iron the last layer goes along way.
 
+If you want to get a see trough bottom like i did, which most should want if the install the LEDs, you need to add a pause while printing. You can use the M600 command for that, if your printer supports that. For klipper printers you need to create a macro with the name M600 and just point to the pause function of klipper.
+Marlin and the Prusa Firmware have the M600 command baked into them nativly, im not sure about the bambu firmware.
+The pause is at layer 11, a height of 2.2 mm.
+
+
+![Msweep_5.5](https://github.com/Runningtarrens/Msweep/blob/main/pics/bot%20print%20pause%20slicer.JPG)
+
 ![Msweep_6](https://github.com/Runningtarrens/Msweep/blob/main/pics/bot%20slicer.JPG)
 
 
